@@ -3,8 +3,8 @@ Proyek ini adalah sistem pendeteksi kebakaran yang menggunakan sensor api dan as
 
 ## Alat yang Digunakan
 
-- 🖥️ Arduino
-- 🌫️ Sensor Asap
+- 🖥️ Arduino UNO
+- 🌫️ Sensor Asap MQ2
 - 🔥 Sensor Api
 - 🔊 Buzzer
 - 🔌 Relay
